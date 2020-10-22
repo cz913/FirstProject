@@ -1,5 +1,5 @@
 public class OrderStartApplication {
     public static void main(String[] args) {
-        System.out.println("ÌìÑÄÃ÷ÔÂµ¶");
+        System.out.println("123========");
     }
 }
